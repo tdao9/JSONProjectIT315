@@ -1,8 +1,8 @@
 {
   "food":
   [
-    {"foodName":"Lo Mein","foodCalories":"313.4 cal","foodImage":"https://raw.githubusercontent.com/tdao9/JSONProjectIT315/lomein.jpg","cookingTime":"15 min","description":"Lo Mein is a Chinese dish with egg","foodWebsite":"https://www.hikingupward.com/snp/oldrag/"},
-    {"foodName":"Udon","foodCalories":"172 cal","foodImage":"https://raw.githubusercontent.com/tdao9/JSONProjectIT315/udon.jpg","cookingTime":"40 min","description":"Udon is a thick nood","foodWebsite":"https://www.hikingupward.com/snp/oldrag/"}
+    {"foodName":"Lo Mein","foodCalories":"313.4 cal","foodImage":"https://raw.githubusercontent.com/tdao9/JSONProjectIT315/master/lomein.jpg","cookingTime":"15 min","description":"Lo Mein is a Chinese dish with egg","foodWebsite":"https://www.hikingupward.com/snp/oldrag/"},
+    {"foodName":"Udon","foodCalories":"172 cal","foodImage":"https://raw.githubusercontent.com/tdao9/JSONProjectIT315/master/udon.jpg","cookingTime":"40 min","description":"Udon is a thick nood","foodWebsite":"https://www.hikingupward.com/snp/oldrag/"}
   ],
   "Status":"OK"
 }
